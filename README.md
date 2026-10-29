@@ -71,6 +71,8 @@ The balloon's shading is adapted from the Radial Gradient example that comes wit
  
 Wiring diagram made in [Fritzing].
 
+![another screen recorded demo, but more for fun and less for display](media/funmodule2.gif)
+
 
 
 
